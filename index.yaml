@@ -16,6 +16,6 @@ entries:
     name: pages
     type: application
     urls:
-    - pages-1.0.0.tgz
+      - https://diarmuidkeane.github.io/
     version: 1.0.0
 generated: "2021-08-27T09:44:19.52065531+01:00"
